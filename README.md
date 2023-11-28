@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on creating automation frameworks for testing.<br>👯 I’m looking to collaborate on trending testing technologies.💬 Ask me anything about agile.<br>⚡
+🔭 I’m currently working on creating automation frameworks for testing.<br>👯 I’m looking to collaborate on trending testing technologies.<br>💬 Ask me anything about agile.<br>
 
 
 ## 🌐 Socials:
