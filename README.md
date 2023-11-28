@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on creating full stack applications.<br>👯 I’m looking to collaborate on trending development technologies.<br>🌱 I’m currently learning React web development.<br>💬 Ask me anything about agile.<br>⚡ Fun fact I am a former QA :-)
+🔭 I’m currently working on creating automation frameworks for testing.<br>👯 I’m looking to collaborate on trending testing technologies.💬 Ask me anything about agile.<br>⚡
 
 
 ## 🌐 Socials:
